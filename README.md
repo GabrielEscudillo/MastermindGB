@@ -7,11 +7,10 @@
 
 - [Introducción](#introducción)
 - [Características](#📋-características)
-- [Problemas y posibles soluciones ](#🚧-problemas-y-posibles-soluciones-💡)
+- [Problemas y posibles soluciones ](#problemas-y-posibles-soluciones)
 - [Tecnologías](#tecnologías-utilizadas)
 - [Autor](#📝-autor)
 - [Licencia](#⚖️-licencia)
-- [Agradecimientos](#👏-agradecimientos)
 
 ## Introducción
 
