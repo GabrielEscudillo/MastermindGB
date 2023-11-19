@@ -67,24 +67,18 @@ Si en el decimo intento no hemos conseguido la combinación correcta de colores,
 <img src="./img/loser.png" alt="loserpage" width="500"/>
 </div>
   
-## 🚧 Problemas y posibles soluciones 💡
+## Problemas y posibles soluciones 
 
+En este proyecto me hubiese gustado poder crear los tres diferentes niveles pero debido a aún tengo que conocer un poco más a fondo JavaScript para poder hacerlo.
 
+También hubiese sido ideal añadir el boton "remove" en la pestaña del juego para que en caso de que el jugador seleccione un color equivocado pueda corregirlo antes de proceder con la validación.
 
- Uno de los principales desafíos a la hora de elaborar este proyecto ha sido en donde realmente poner el foco, sobre todo en los momentos más difíciles y de estancamiento el saber dar un paso al lado, continuar con algo que si pudiese realizar en el momento, con más facilidad, para volver a los puntos más arduos luego, más repotenciado.
-
-La primera toma de contacto con Javascript, sin más, me ha recordado como hace 4 semanas me sentía con HTLM y CSS, en la primera toma de contacto. Ahora, leguajes que con facilidad puedo desarrollar.
-
-Como problema, puedo mencionar que me hubiese gustado realizar distintos niveles de dificultad, pero por cuestión de tiempo, y ya que, he tenido que refactorizar el código debido a problemas de congruencia.
-
-Tambiene me hubiese gustado tener un nivel dinámico en este proyecto.
+Voy a continuar trabajando en las mejoras de este proyecto para perfeccionarlo.
 
 ## Tecnologías Utilizadas
 
-<img src="./img/lenguajes_1.png" alt="lengiajes" width="200"/>
-<img src="./img/Capturas/Canva-logo.png" alt="lengiajes" width="100"/>
-<img src="./img/Capturas/git-logo.png" alt="lengiajes" width="150"/>
-<img src="./img/Capturas/GitHub_Mark.png" alt="lengiajes" width="100"/>
+<img src="./img/tecnologias.png" alt="lenguags" width="100"/>
+<img src="./img/canva.svg.png" alt="lengiajes" width="100"/>
  
 ## 📝 Autor
 
